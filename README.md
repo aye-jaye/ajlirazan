@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ajlirazan
+- 👋 Hi, I’m @aye-jaye
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning python
 - 📫 How to reach me: l.arnjulyn@gmail.com
